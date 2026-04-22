@@ -1,6 +1,6 @@
 ## Problem Statement
 
-Retail businesses generate large volumes of transactional data but struggle to convert it into actionable insights.
+Retail businesses generate large volumes of transactional data but struggle to convert it into actionable insights. 
 
 Key challenges include:
 - Identifying high-performing products

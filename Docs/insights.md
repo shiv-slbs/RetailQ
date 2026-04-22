@@ -6,7 +6,7 @@ A small number of products contribute to a large share of revenue.
 👉 Recommendation:
 Focus marketing efforts on high-performing products.
 
----
+--- 
 
 ### 2. Customer Segmentation
 Top customers generate disproportionately high revenue.

@@ -8,7 +8,7 @@ INSERT INTO customers VALUES
 (6,'Sneha','South'),
 (7,'Rahul','East'),
 (8,'Pooja','West');
-
+ 
 -- Products
 INSERT INTO products VALUES
 (101,'Laptop','Electronics',60000),

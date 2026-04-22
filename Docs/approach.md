@@ -1,5 +1,5 @@
 ## Approach
-
+ 
 The project follows a structured data analytics pipeline:
 
 1. Data Modeling

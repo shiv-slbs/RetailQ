@@ -1,7 +1,7 @@
 ## Dashboard Specification
 
 Since Power BI is not implemented, this document defines the dashboard design.
-
+ 
 ### Key Visuals:
 
 1. Total Revenue (KPI Card)
