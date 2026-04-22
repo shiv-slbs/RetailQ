@@ -1,4 +1,4 @@
-# 📊 RetailIQ: Data-Driven Decision Intelligence System
+# 📊 RetailQ: Data-Driven Decision Intelligence System
 
 > Turning retail data into actionable business decisions
 
@@ -6,7 +6,7 @@
 
 ## 💡 Overview
 
-**RetailIQ** is a SQL-driven business intelligence project that simulates how retail organizations leverage data to make strategic decisions. It focuses on transforming raw transactional data into actionable insights related to customer behavior, product performance, and inventory optimization.
+**RetailQ** is a SQL-driven business intelligence project that simulates how retail organizations leverage data to make strategic decisions. It focuses on transforming raw transactional data into actionable insights related to customer behavior, product performance, and inventory optimization.
 
 This project goes beyond basic database operations and demonstrates how data can be used to drive **revenue growth, operational efficiency, and informed decision-making**—a key requirement in consulting roles.
 
@@ -51,7 +51,7 @@ The database is normalized (up to 3NF) and uses proper relationships, constraint
 ---
 
 ## 📁 Project Structure
-RetailIQ/
+RetailQ/
 │
 ├── data/ # Dataset files
 │ └── sample_dataset.csv
@@ -80,8 +80,8 @@ RetailIQ/
 Install MySQL or PostgreSQL and create a database:
 
 ```sql
-CREATE DATABASE retailiq;
-USE retailiq;
+CREATE DATABASE RetailQ;
+USE RetailQ;
 
 2. Execute SQL Files
 
@@ -94,7 +94,7 @@ advanced_analysis.sql
 3. (Optional but Recommended) Power BI
 Open Power BI Desktop
 Click Get Data → MySQL
-Connect to your database (retailiq)
+Connect to your database (RetailQ)
 Load tables and create visuals:
 Revenue trends
 Top products
@@ -106,7 +106,7 @@ Certain regions underperform compared to others
 Inventory optimization is required for high-demand products
 📈 Business Impact
 
-RetailIQ demonstrates how data-driven systems can:
+RetailQ demonstrates how data-driven systems can:
 
 Improve decision-making accuracy
 Optimize inventory and operations
@@ -120,3 +120,4 @@ Product recommendation system
 
 Shivam Kumar
 B.Tech CSE | Data & Analytics Enthusiast
+

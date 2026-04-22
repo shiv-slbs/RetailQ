@@ -1,8 +1,8 @@
-# 📊 Power BI Setup Guide – RetailIQ
+# 📊 Power BI Setup Guide – RetailQ
 
-This document explains how to build the Power BI dashboard for the RetailIQ project.
+This document explains how to build the Power BI dashboard for the RetailQ project.
 
----
+--- 
 
 ## 🧩 Step 1: Connect to Database
 
@@ -10,7 +10,7 @@ This document explains how to build the Power BI dashboard for the RetailIQ proj
 2. Click **Get Data → MySQL Database**  
 3. Enter:
    - Server: `localhost`
-   - Database: `retailiq`
+   - Database: `RetailQ`
 4. Select and load these tables:
    - customers
    - products
