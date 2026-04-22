@@ -82,7 +82,7 @@ Install MySQL or PostgreSQL and create a database:
 ```sql
 CREATE DATABASE RetailQ;
 USE RetailQ;
-
+```
 2. Execute SQL Files
 
 Run the following files in order:
@@ -117,7 +117,7 @@ Sales forecasting using time-series analysis
 Customer churn prediction
 Product recommendation system
 
-
+---
 ## 👤 Author
 
 Shivam Kumar
