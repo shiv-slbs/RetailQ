@@ -116,7 +116,9 @@ Drive revenue growth through insights
 Sales forecasting using time-series analysis
 Customer churn prediction
 Product recommendation system
-👤 Author
+
+
+## 👤 Author
 
 Shivam Kumar
 B.Tech CSE | Data & Analytics Enthusiast
